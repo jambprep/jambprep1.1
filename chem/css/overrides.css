@@ -1,0 +1,19 @@
+.imagemaxwidth {max-width: 100%;}
+
+.imagerightalign {float: right;}
+
+.imagecenteralign {display: block;margin-left: auto;margin-right: auto;}
+
+.candidateblock {display: inline-block;}
+
+label {display: table-cell;}
+
+.loaderbackground, .loaderbackgroundsvg {background-image: url('../resfiles/sylLogo.jpg');}
+
+.assessmentbackground, .assessmentbackgroundsvg {background-image: url('../resfiles/sylLogo.jpg');}
+
+.assessmentcontainerbackground, .assessmentcontainerbackgroundsvg {background-image: none;}
+
+.finishedbackground, .finishedbackgroundsvg{background-image: url('../resfiles/sylLogo.jpg');}
+
+
